@@ -1,1 +1,1 @@
-alert("I am from <body>");
+alert("I am from external file");
